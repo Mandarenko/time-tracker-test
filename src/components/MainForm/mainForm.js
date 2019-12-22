@@ -18,7 +18,7 @@ class MainFormComp extends React.Component {
         return (
             <div className="page">
                 <div className="form">
-                    <div className="form-title">Главное меню</div>
+                    <div className="form-title">Ииииииихаааааа</div>
                     <div className="form-page">
                         <div className="workzone">
                             <div className="sidemenu">
